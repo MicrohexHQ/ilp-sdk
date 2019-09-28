@@ -1,0 +1,16 @@
+Encodings
+
+HTML Entity (decimal)	&#65535;
+HTML Entity (hex)	&#xffff;
+
+How to type in Microsoft Windows ( Alt +FFF )
+F
+UTF-8  (hex)	        0xEF 0xBF 0xBF (efbfbf)
+UTF-8  (binary)	        11101111:10111111:10111111
+UTF-16 (hex)	        0xFFFF (ffff)
+UTF-16 (decimal)	65.535
+UTF-32 (hex)	        0x0000FFFF (ffff)
+UTF-32 (decimal)	65.535
+
+C/C++/Java source code	"\uFFFF"
+Python source code	u"\U0000FFFF
