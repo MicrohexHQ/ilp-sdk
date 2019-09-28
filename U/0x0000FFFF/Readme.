@@ -3,8 +3,8 @@ Encodings
 HTML Entity (decimal)	&#65535;
 HTML Entity (hex)	&#xffff;
 
-How to type in Microsoft Windows ( Alt +FFF )
-F
+How to type in Microsoft Windows ( Alt +FFFF)
+
 UTF-8  (hex)	        0xEF 0xBF 0xBF (efbfbf)
 UTF-8  (binary)	        11101111:10111111:10111111
 UTF-16 (hex)	        0xFFFF (ffff)
